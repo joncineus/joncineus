@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="left">Hey there! <br>I'm Jonathan Alcineus and I am a 4th-Year Statistics and Computer Science major</p>
+## I'm Jonathan Alcineus and I am a 4th-Year Statistics and Computer Science major
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
