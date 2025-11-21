@@ -2,7 +2,7 @@
 <h3 align="center">A Recent FSU Statistics and Computer Science Grad Exploring Robotics and Hardware Engineering</h3>
 
   <br/>
-  <img src="Jon-5016.jpg" width=200/>
+  <img src="Jon-5016.jpg" width=300/>
 
 I've been interested in the intersection between tech and human-centered design since 2021, leading me to start college as a political science major. From 2022 to 2024, I served as a Florida Co-Chapter Lead with a civic organization, Encode Justice, where I advocated safer technology and AI policies in Florida, [spoke at a conference with technology safety researchers](https://aiyouthcscw2023.wordpress.com/) and had my chapter's work featured in the press. 
 
