@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋, I'm Jonathan</h1>
 <h3 align="center">A recent FSU Statistics and Computer Science grad working on becoming robotics engineer</h3>
 
-<p>I've been interested in the intersection </p>
+I've been interested in the intersection between tech and human-centered design since 2021, leading me to start college as a political science major. Because of this
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joncineus&label=Profile%20views&color=0e75b6&style=flat" alt="joncineus" /> </p>
 
