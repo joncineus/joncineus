@@ -11,6 +11,7 @@ I wanted to create the technology that I wanted to see in the world and examine 
 
 - 🌱 I’m currently learning **arduino, ESP32, circuits, hardware**
   <img src="IMG_1244.jpg" width=200/>
+  <img src="IMG_221FEBA3-82EB-4E02-B113-B51E0114A784.JPEG" width=200/>
 
 - 📫 How to reach me **jha21a@fsu.edu**
 
