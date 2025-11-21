@@ -1,11 +1,13 @@
 <h1 align="center">Welcome 👋, I'm Jonathan</h1>
 <h3 align="center">A recent FSU Statistics and Computer Science grad working on becoming robotics engineer</h3>
 
+<p>I've been interested</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joncineus&label=Profile%20views&color=0e75b6&style=flat" alt="joncineus" /> </p>
 
 - 🔭 I’m currently working on [Data Cleaning and Storage Project](https://github.com/joncineus/cleaning-and-storing-data-to-sql-project)
 
-- 🌱 I’m currently learning **arduino, ESP32**
+- 🌱 I’m currently learning **arduino, ESP32, circuits, hardware**
 
 - 📫 How to reach me **jha21a@fsu.edu**
 
