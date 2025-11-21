@@ -1,9 +1,6 @@
 <h1 align="center">Welcome 👋, I'm Jonathan</h1>
 <h3 align="center">A Recent FSU Statistics and Computer Science Grad Exploring Robotics and Hardware Engineering</h3>
 
-![Experimenting with Arduino](IMG_221FEBA3-82EB-4E02-B113-B51E0114A784.JPEG)
-![More Experimenting with Arduino](IMG_1244.jpg)
-
 I've been interested in the intersection between tech and human-centered design since 2021, leading me to start college as a political science major. From 2022 to 2024, I served as a Florida Co-Chapter Lead with a civic organization, Encode Justice, where I advocated safer technology and AI policies in Florida, [spoke at a conference with technology safety researchers](https://aiyouthcscw2023.wordpress.com/) and had my chapter's work featured in the press. 
 
 I wanted to create the technology that I wanted to see in the world and examine how data and human bias impacts AI. This led me to pursue a double major in statistics and computer science where I took courses in machine learning, software engineering, data structures, and statistical methods, [participated and won a design sprint](https://www.innovation.fsu.edu/rapid-relocation), and participated in research throughout my undergraduate career. Now, I am exploring hardware to work embedded devices and develop automous robots. So follow along!
@@ -13,6 +10,7 @@ I wanted to create the technology that I wanted to see in the world and examine 
 - 🔭 I’m currently working on [Data Cleaning and Storage Project](https://github.com/joncineus/cleaning-and-storing-data-to-sql-project)
 
 - 🌱 I’m currently learning **arduino, ESP32, circuits, hardware**
+  <img src="IMG_1244.jpg" width=300/>
 
 - 📫 How to reach me **jha21a@fsu.edu**
 
