@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋, I'm Jonathan</h1>
 <h3 align="center">A recent FSU Statistics and Computer Science grad exploring robotics and hardware engineering</h3>
 
-I've been interested in the intersection between tech and human-centered design since 2021, leading me to start college as a political science major. I wanted to work on advocating for safer policies around the use of artificial intelligence because of my interest. From 2022-2024, 
+I've been interested in the intersection between tech and human-centered design since 2021, leading me to start college as a political science major. I wanted to work on advocating for safer policies around the use of artificial intelligence because of my interest. From 2022 to 2024, I served as a Florida Co-Chapter Lead with a civic organization, Encode Justice, where I advocated safer technology and AI policies in Florida, [spoke at a conference with technology safety researchers](https://aiyouthcscw2023.wordpress.com/) and had my chapter's work featured in the press. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joncineus&label=Profile%20views&color=0e75b6&style=flat" alt="joncineus" /> </p>
 
