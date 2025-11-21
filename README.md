@@ -10,6 +10,7 @@ I wanted to create the technology that I wanted to see in the world and examine 
 - 🔭 I’m currently working on [Data Cleaning and Storage Project](https://github.com/joncineus/cleaning-and-storing-data-to-sql-project)
 
 - 🌱 I’m currently learning **arduino, ESP32, circuits, hardware**
+  <br/>
   <img src="IMG_1244.jpg" width=200/>
   <img src="IMG_221FEBA3-82EB-4E02-B113-B51E0114A784.JPEG" width=200/>
 
