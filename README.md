@@ -23,6 +23,7 @@ I wanted to create the technology that I wanted to see in the world and examine 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jonathan-alcineus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-alcineus" height="30" width="40" /></a>
+<img src="Jon-5016.jpg" width=200/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joncineus&show_icons=true&locale=en" alt="joncineus" /></p>
