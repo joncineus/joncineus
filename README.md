@@ -4,7 +4,7 @@
 
 I've been interested in the intersection between tech and human-centered design since 2021, leading me to start college as a political science major. From 2022 to 2024, I served as a Florida Co-Chapter Lead with a civic organization, Encode Justice, where I advocated safer technology and AI policies in Florida, [spoke at a conference with technology safety researchers](https://aiyouthcscw2023.wordpress.com/) and had my chapter's work featured in the press. 
 
-I wanted to create the technology that I wanted to see in the world and examine how data and human bias impacts AI. This led me to pursue a double major in statistics and computer science where I took courses in machine learning, software engineering, data structures, and statistical methods, [participated and won a design sprint] (https://www.innovation.fsu.edu/rapid-relocation), and participated in research throughout my undergraduate career. Now, I am exploring hardware to work embedded devices and develop automous robots. So follow along!
+I wanted to create the technology that I wanted to see in the world and examine how data and human bias impacts AI. This led me to pursue a double major in statistics and computer science where I took courses in machine learning, software engineering, data structures, and statistical methods, [participated and won a design sprint](https://www.innovation.fsu.edu/rapid-relocation), and participated in research throughout my undergraduate career. Now, I am exploring hardware to work embedded devices and develop automous robots. So follow along!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joncineus&label=Profile%20views&color=0e75b6&style=flat" alt="joncineus" /> </p>
 
