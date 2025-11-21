@@ -24,6 +24,7 @@ I wanted to create the technology that I wanted to see in the world and examine 
 <p align="left">
 <a href="https://linkedin.com/in/jonathan-alcineus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-alcineus" height="30" width="40" /></a>
 <br/>
+<br/>
 <img src="Jon-5016.jpg" width=200/>
 </p>
 
